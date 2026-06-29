@@ -1,0 +1,18 @@
+current directory: /home/leonel/projects/rails-3/somos_arte/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/usr/share/rvm/rubies/ruby-3.3.11/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/leonel/projects/rails-3/somos_arte/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260627-92405-af8i6w sitelibdir\=./.gem.20260627-92405-af8i6w clean
+
+current directory: /home/leonel/projects/rails-3/somos_arte/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260627-92405-af8i6w sitelibdir\=./.gem.20260627-92405-af8i6w
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/leonel/projects/rails-3/somos_arte/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260627-92405-af8i6w sitelibdir\=./.gem.20260627-92405-af8i6w install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20260627-92405-af8i6w/racc
+
+current directory: /home/leonel/projects/rails-3/somos_arte/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260627-92405-af8i6w sitelibdir\=./.gem.20260627-92405-af8i6w clean

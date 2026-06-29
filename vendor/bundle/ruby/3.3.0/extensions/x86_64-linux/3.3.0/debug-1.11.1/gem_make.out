@@ -1,0 +1,19 @@
+current directory: /home/leonel/projects/rails-3/somos_arte/vendor/bundle/ruby/3.3.0/gems/debug-1.11.1/ext/debug
+/usr/share/rvm/rubies/ruby-3.3.11/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/leonel/projects/rails-3/somos_arte/vendor/bundle/ruby/3.3.0/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20260627-92405-yorwr3 sitelibdir\=./.gem.20260627-92405-yorwr3 clean
+
+current directory: /home/leonel/projects/rails-3/somos_arte/vendor/bundle/ruby/3.3.0/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20260627-92405-yorwr3 sitelibdir\=./.gem.20260627-92405-yorwr3
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/leonel/projects/rails-3/somos_arte/vendor/bundle/ruby/3.3.0/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20260627-92405-yorwr3 sitelibdir\=./.gem.20260627-92405-yorwr3 install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20260627-92405-yorwr3/debug
+
+current directory: /home/leonel/projects/rails-3/somos_arte/vendor/bundle/ruby/3.3.0/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20260627-92405-yorwr3 sitelibdir\=./.gem.20260627-92405-yorwr3 clean
