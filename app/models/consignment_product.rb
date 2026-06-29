@@ -1,0 +1,3 @@
+class ConsignmentProduct < ApplicationRecord
+
+end
